@@ -21,7 +21,7 @@ Access the live application here: [elegant-faun-14186b.netlify.app](https://eleg
 -   Node.js (v14 or later)
 -   npm (v6 or later)
 -   Supabase account
--   DigitalOcean account with access to GPU Droplets
+-   DigitalOcean account with access to GPU Droplet
 
 ### Installation
 
